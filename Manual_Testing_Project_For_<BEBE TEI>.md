@@ -28,10 +28,10 @@ The test process was performed based on the standard test process as described b
 
 
 <ul>
-  <li>Project manager</li>Amelia Brown
-  <li>Product owner</li>: Tristan Bruce
-  <li>Software developer</li>: Geroge Harold
-  <li>QA Engineer</li>: Pinzariu Daria
+  <li>Project manager:</li>Amelia Brown
+  <li>Product owner:</li>Tristan Bruce
+  <li>Software developer:</li>Geroge Harold
+  <li>QA Engineer:</li>Pinzariu Daria
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
