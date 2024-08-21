@@ -1,20 +1,20 @@
-<h1>Testing Project for **Inserati aici numele aplicatiei pe care o testati**</h1>
+<h1>Testing Project for BEBE TEI</h1>
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: **Inserati aici numele aplicatiei pe care o testati**
+Application under test: BEBE TEI
 
 Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below stories were created in Jira and describe the functional specifications of the "Manual Testing" module, for which the final project is performed upon.
 
-**inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
-
+<img src="Story1.png" alt="Story 1">
+<img src="Story2.png" alt="Story 2">
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+<img src="release.png" alt="release">
 
 <h2>Testing process</h2>
 
@@ -22,47 +22,61 @@ The test process was performed based on the standard test process as described b
 
 <h3>1.1 Test planning</h3>
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
-
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
+<a href="Test plan - Bebe Tei.pdf">Test Plan</a>
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
+
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Project manager</li>Amelia Brown
+  <li>Product owner</li>: Tristan Bruce
+  <li>Software developer</li>: Geroge Harold
+  <li>QA Engineer</li>: Pinzariu Daria
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+• New account test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+• testing environment is up and running
+• ability to access “My account”
+• test plan approved and test data prepared
+• Availability of staff for testing tasks
+• Availability of test items that have met the exit criteria for any previous test levels
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+• 50% of tests are passed
+• no Critical issues have Open status
+• all remaining defects are either cancelled or documented as Change Requests for a
+future release
 
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+• we plan on running a full regression test on the current version
+• all the test cases are written and reviewed
+• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards )
 
 <h5>Tests not in scope: </h5>
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+n/a
 
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+• Organizational factors: personnel problems, team conflicts
+• Supplier issues: a small number of products
+• Political issues: incorrect attitude towards the testing process
+• Technical issues: Unclear business requirements
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+- Data Security: Compromise of users' personal and financial information.
+- Performance and Scalability: Performance issues during high traffic volumes, which can lead to slowness or outages.
+- Accuracy of Information: Errors in product details such as drug descriptions, prices or availability.
+- Communication with Suppliers: Integration issues with supplier systems that may affect product availability and delivery.
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
@@ -70,47 +84,55 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h3>1.2 Test Monitoring and Control<h3>
 
-**(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
+<img src="Poza1.png" alt="Test status">
+<img src="Poza2.png" alt="Test metrics">
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+<img src="teste.png" alt="Teste">
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: https://itfclasses.atlassian.net/sr/jira.issueviews:searchrequest-xml/temp/SearchRequest.xml?jqlQuery=project%3D10362+AND+issuetype%3D10005&atl_token=dc253b2b16f9a50982199b97a4c76cfa9d641423_lin&tempMax=1000 
 
 <h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards )
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: Testing Bebe Tei
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: https://itfclasses.atlassian.net/sr/jira.issueviews:searchrequest-xml/temp/SearchRequest.xml?jqlQuery=project+%3D+%22PIN%22+AND+type+%3D+Bug+ORDER+BY+created+DESC&atl_token=dc253b2b16f9a50982199b97a4c76cfa9d641423_lin&tempMax=1000
 
-The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+The following is a summary of the bugs that have been found:
+- The "Product list" bug does not affect the user that much, its severity is low.
+- The "I forgot the password" bug has a high severity and affects the user.
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 <h3> 1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: 
+<img src="matrice.png" alt="Matrix">
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+<img src="Dashboard.png" alt="Dashboard">
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
+The final report shows that a number 2 tests have failed of a total of 10
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+A number of 2 total bugs were found, from which the priority is: 1 is high and 1 is medium to low.
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+<h4>Conclusion</h4>
+During the testing process for our maternity and baby products website, a total of 10 tests were created and executed. Approximately 85% of the requirements specified in the project documentation were covered by these tests.
+Some functionalities, such as integration with the inventory management system and customized delivery options, were not fully tested due to time constraints. These will require additional testing before the launch.
+Regarding the identified bugs, most are minor and can be fixed without significantly impacting the product launch. However, a few critical bugs need immediate attention to avoid potential functionality issues post-launch.
+Identified product risks include possible performance issues during peak traffic and synchronization errors with suppliers. These risks need to be mitigated through server optimization and strengthening integration with external partners.
+We recommend delaying the launch until the testing of uncovered functionalities is completed and critical bugs are resolved. Additional time should be allocated for testing under high-traffic conditions to ensure optimal performance.
+Lessons learned include the importance of adequate planning for testing complex functionalities and external integrations. This should be considered in future projects to avoid similar delays and launch issues.
