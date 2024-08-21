@@ -95,7 +95,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: https://itfclasses.atlassian.net/sr/jira.issueviews:searchrequest-xml/temp/SearchRequest.xml?jqlQuery=project%3D10362+AND+issuetype%3D10005&atl_token=dc253b2b16f9a50982199b97a4c76cfa9d641423_lin&tempMax=1000 
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: test_cases.xlsx
 
 <h3>1.5 Test Implementation</h3>
 
