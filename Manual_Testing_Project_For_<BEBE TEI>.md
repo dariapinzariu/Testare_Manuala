@@ -95,7 +95,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: test_cases.xlsx
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: <a href="test_cases.xlsx">Test Cases</a>
 
 <h3>1.5 Test Implementation</h3>
 
@@ -107,7 +107,7 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: Testing Bebe Tei
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: https://itfclasses.atlassian.net/sr/jira.issueviews:searchrequest-xml/temp/SearchRequest.xml?jqlQuery=project+%3D+%22PIN%22+AND+type+%3D+Bug+ORDER+BY+created+DESC&atl_token=dc253b2b16f9a50982199b97a4c76cfa9d641423_lin&tempMax=1000
+Bugs have been created based on the failed tests. The complete bug reports can be found here: <a href="test_execution.xml">Test Execution</a>
 
 The following is a summary of the bugs that have been found:
 - The "Product list" bug does not affect the user that much, its severity is low.
