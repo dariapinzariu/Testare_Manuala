@@ -84,8 +84,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h3>1.2 Test Monitoring and Control<h3>
 
-<img src="Poza1.png" alt="Test status">
-<img src="Poza2.png" alt="Test metrics">
+<img src="poza1.png" alt="Test status">
+<img src="poza2.png" alt="Test metrics">
 
 <h3> 1.3 Test Analysis </h3>
 
