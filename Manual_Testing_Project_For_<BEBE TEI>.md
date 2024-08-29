@@ -54,9 +54,8 @@ future release<br>
 
 <h5> Tests in scope: </h5>
 
-• we plan on running a full regression test on the current version<br>
-• all the test cases are written and reviewed<br>
-• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards )<br>
+
+
 
 <h5>Tests not in scope: </h5>
 
@@ -101,7 +100,9 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 The following elements are needed to be ready before the test execution phase begins:
 
-• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards )
+• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards)<br>
+• all the test cases are written and reviewed<br>
+• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards )<br>
 
 <h3>1.6. Test Execution </h3>
 
@@ -113,7 +114,8 @@ The following is a summary of the bugs that have been found:<br>
 - The "Product list" bug does not affect the user that much, its severity is low.<br>
 - The "I forgot the password" bug has a high severity and affects the user.<br>
 
-Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
+Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.<br>
+• we plan on running a full regression test on the current version.
 
 <h3> 1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
