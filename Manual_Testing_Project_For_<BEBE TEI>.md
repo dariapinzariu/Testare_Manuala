@@ -14,7 +14,7 @@ The below stories were created in Jira and describe the functional specification
 <img src="Story2.png" alt="Story 2">
 Here you can find the release that was created for this project:
 
-<img src="release.png" alt="release">
+<img src="release1.png" alt="release">
 
 <h2>Testing process</h2>
 
@@ -121,7 +121,7 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 The traceability matrix was generated and can be found here: 
 In this traceability matrix we have 5 stories, 2 of which are bugs. The second bug is related to the "My Account" story. If the test in "My Account" failed and the bug appears, "Fail" will appear.
 In the case of the first bug, it is not related to any story and no test is executed to show the failure and when the bug appears.
-<img src="matrice.png" alt="Matrix">
+<img src="matrice2.png" alt="Matrix">
 
 Test execution chart was generated and can be found below. 
 In this Dashboard, we are shown the report of the executed tests that failed (in red) and those that were passed (in green).  In this case, the number of passed tests is higher than the number of failed ones.
