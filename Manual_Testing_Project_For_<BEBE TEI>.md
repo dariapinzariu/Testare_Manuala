@@ -36,27 +36,27 @@ The test process was performed based on the standard test process as described b
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-• New account test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-• testing environment is up and running
-• ability to access “My account”
-• test plan approved and test data prepared
-• Availability of staff for testing tasks
-• Availability of test items that have met the exit criteria for any previous test levels
+• New account test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)<br>
+• testing environment is up and running<br>
+• ability to access “My account”<br>
+• test plan approved and test data prepared<br>
+• Availability of staff for testing tasks<br>
+• Availability of test items that have met the exit criteria for any previous test levels<br>
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-• 50% of tests are passed
-• no Critical issues have Open status
+• 50% of tests are passed<br>
+• no Critical issues have Open status<br>
 • all remaining defects are either cancelled or documented as Change Requests for a
-future release
+future release<br>
 
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
-• we plan on running a full regression test on the current version
-• all the test cases are written and reviewed
-• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards )
+• we plan on running a full regression test on the current version<br>
+• all the test cases are written and reviewed<br>
+• all the test data is available and reviewed (test data= email examples, password examples, different types of log in accounts , different types of dashboards )<br>
 
 <h5>Tests not in scope: </h5>
 
@@ -66,17 +66,17 @@ n/a
 
 <h5>Project risks:</h5>
 
-• Organizational factors: personnel problems, team conflicts
-• Supplier issues: a small number of products
-• Political issues: incorrect attitude towards the testing process
-• Technical issues: Unclear business requirements
+• Organizational factors: personnel problems, team conflicts<br>
+• Supplier issues: a small number of products<br>
+• Political issues: incorrect attitude towards the testing process<br>
+• Technical issues: Unclear business requirements<br>
 
 <h5> Product risks: </h5>
 
-- Data Security: Compromise of users' personal and financial information.
-- Performance and Scalability: Performance issues during high traffic volumes, which can lead to slowness or outages.
-- Accuracy of Information: Errors in product details such as drug descriptions, prices or availability.
-- Communication with Suppliers: Integration issues with supplier systems that may affect product availability and delivery.
+- Data Security: Compromise of users' personal and financial information.<br>
+- Performance and Scalability: Performance issues during high traffic volumes, which can lead to slowness or outages.<br>
+- Accuracy of Information: Errors in product details such as drug descriptions, prices or availability.<br>
+- Communication with Suppliers: Integration issues with supplier systems that may affect product availability and delivery.<br>
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
@@ -109,9 +109,9 @@ Test cases are executed on the created test Cycle summary: Testing Bebe Tei
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: <a href="test_execution.xml">Test Execution</a>
 
-The following is a summary of the bugs that have been found:
-- The "Product list" bug does not affect the user that much, its severity is low.
-- The "I forgot the password" bug has a high severity and affects the user.
+The following is a summary of the bugs that have been found:<br>
+- The "Product list" bug does not affect the user that much, its severity is low.<br>
+- The "I forgot the password" bug has a high severity and affects the user.<br>
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
