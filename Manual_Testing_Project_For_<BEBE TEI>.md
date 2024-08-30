@@ -65,17 +65,18 @@ n/a
 
 <h5>Project risks:</h5>
 
-• Organizational factors: personnel problems, team conflicts<br>
-• Supplier issues: a small number of products<br>
-• Political issues: incorrect attitude towards the testing process<br>
-• Technical issues: Unclear business requirements<br>
+• Team conflicts which may lead to errors in the project <br>
+• The risk that the unavailability of one or more team members could hinder the project's progress. <br>
+• Incorrect attitude towards the testing process of the testers<br>
+• Unclear business requirements, leading to delays<br>
 
 <h5> Product risks: </h5>
 
-- Data Security: Compromise of users' personal and financial information.<br>
-- Performance and Scalability: Performance issues during high traffic volumes, which can lead to slowness or outages.<br>
-- Accuracy of Information: Errors in product details such as drug descriptions, prices or availability.<br>
-- Communication with Suppliers: Integration issues with supplier systems that may affect product availability and delivery.<br>
+• Site outages or slow performance <br>
+• Weak authentication processes <br>
+• Server issues or cyberattacks <br>
+• High traffic during peak times <br>
+• Incorrect product descriptions
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
