@@ -122,8 +122,11 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: 
-In this traceability matrix we have 5 stories, 2 of which are bugs. The second bug is related to the "My Account" story. If the test in "My Account" failed and the bug appears, "Fail" will appear.
-In the case of the first bug, it is not related to any story and no test is executed to show the failure and when the bug appears.
+In this traceability matrix we have 5 stories, 3 of which test bugs. <br>
+
+The first 2 tests are related to the "Search Bar" and "My Basket" stories, tests that passed any verification, and the final verdict is "PASS". <br>
+
+In the case of the last test, "FAIL" appears; the test "Creating an account encountered a problem and has a bug, hence the result.<br>
 <img src="matrice2.png" alt="Matrix">
 
 Test execution chart was generated and can be found below. 
