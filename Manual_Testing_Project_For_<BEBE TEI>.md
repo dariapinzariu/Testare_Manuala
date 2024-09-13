@@ -36,12 +36,8 @@ The test process was performed based on the standard test process as described b
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-• New account test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)<br>
-• testing environment is up and running<br>
-• ability to access “My account”<br>
-• test plan approved and test data prepared<br>
-• Availability of staff for testing tasks<br>
-• Availability of test items that have met the exit criteria for any previous test levels<br>
+• test plan approved <br>
+• availability of staff for testing tasks<br>
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
@@ -53,13 +49,15 @@ future release<br>
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
-
-
-
+• to ensure that new customers can successfully register to Bebe Tei<br>
+• here we should write all the functionalities that are included in the release<br>
+• testing the functionalities related to account creation, remember customers' information <br>
 
 <h5>Tests not in scope: </h5>
+• non-functional testing like stress, performance is beyond the scope of this project. <br>
+• automation testing is beyond scope. <br>
+• no QA support for mobile applications developed. Only web applications will be tested. <br>
 
-n/a
 
 <h4>1.1.5 Risks detected</h4>
 
