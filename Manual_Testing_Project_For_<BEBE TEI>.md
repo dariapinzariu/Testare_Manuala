@@ -14,7 +14,7 @@ The below stories were created in Jira and describe the functional specification
 <img src="Story2.png" alt="Story 2">
 Here you can find the release that was created for this project:
 
-<img src="release1.png" alt="release">
+<img src="release.png" alt="release">
 
 <h2>Testing process</h2>
 
