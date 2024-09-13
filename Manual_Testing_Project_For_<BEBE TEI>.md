@@ -135,8 +135,8 @@ In this Dashboard, we are shown the report of the executed tests that failed (in
 
 The final report shows that a number 2 tests have failed of a total of 10
 
-A number of 2 total bugs were found, from which the priority is: 1 is high and 1 is medium to low.
-
+A number of 2 total bugs were found, from which the priority is: 1 is high and 1 is medium to low. <br>
+<img src="buggss.png" alt="Bugs">
 <h4>Conclusion</h4>
 During the testing process for our maternity and baby products website, a total of 10 tests were created and executed. Approximately 85% of the requirements specified in the project documentation were covered by these tests.
 Some functionalities, such as integration with the inventory management system and customized delivery options, were not fully tested due to time constraints. These will require additional testing before the launch.
