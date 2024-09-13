@@ -22,7 +22,7 @@ The test process was performed based on the standard test process as described b
 
 <h3>1.1 Test planning</h3>
 
-<a href="Test plan - Bebe Tei.pdf">Test Plan</a>
+<a href="Test plan  - Bebe Tei.pdf">Test Plan</a>
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
