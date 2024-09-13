@@ -109,7 +109,7 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: Testing Bebe Tei
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: <a href="test_execution.xml">Test Execution</a>
+Bugs have been created based on the failed tests. The complete bug reports can be found here: <a href="test_execution.csv">Test Execution</a>
 
 The following is a summary of the bugs that have been found:<br>
 - The "Product list" bug does not affect the user that much, its severity is low.<br>
